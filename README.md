@@ -7,10 +7,12 @@ illetve jelentkezhetnek azokra.
 
 ## 2. Feladat elemzés
 
+### Főbb Lapok és funkciójuk
+
 1. Főoldal:
 Leírás, a legközelebbi edzések megjelenítése.
 2. Edzések:
-A meghirdetett edzések listája, jelentkezés.
+A meghirdetett edzések listája (időpont, férőhelyek száma, még szabad férőhelyek száma), jelentkezés.
 3. Saját edzések:
 Edzések, melyekre jelentkezett a felhasználó / edzések amiket meghirdetett edzőként.
 4. Bejelentkezés (nem bejelentkezett felhasználók számára):
