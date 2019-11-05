@@ -14,7 +14,7 @@ INSERT INTO user (name, username, password, role) VALUES ('Péter', 'peter', '$2
 
 --INSERT INTO message (body, created_at, issue_id, user_id) VALUES ('De nálam jó', CURRENT_TIMESTAMP(), 1, 1);
 
-INSERT INTO label (text) VALUES ('közeli');
+INSERT INTO label (text) VALUES ('közelgő');
 INSERT INTO label (text) VALUES ('betelt');
 
 
