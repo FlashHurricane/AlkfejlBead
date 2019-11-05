@@ -37,6 +37,5 @@ hirdetésre, így értesítést kap, ha felszabadul egy hely.
 Ha nem érkezik minimális számú jelentkező az edzésre, annak időpontja előtt, a hirdetés automatikusan törlődik.
 Ezt a minimális számot az edző határozza meg.
 
-###Használati eset diagram
-
+### Használati eset diagram
 ![Használati esetek](documentation/hasznalati_esetek.png)

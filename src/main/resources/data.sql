@@ -12,7 +12,7 @@ INSERT INTO user (name, username, password, role) VALUES ('Tibor', 'tibor', '$2a
 INSERT INTO user (name, username, password, role) VALUES ('László', 'laszlo', '$2a$04$YDiv9c./ytEGZQopFfExoOgGlJL6/o0er0K.hiGb5TGKHUL8Ebn..', 'ROLE_USER');
 INSERT INTO user (name, username, password, role) VALUES ('Péter', 'peter', '$2a$04$YDiv9c./ytEGZQopFfExoOgGlJL6/o0er0K.hiGb5TGKHUL8Ebn..', 'ROLE_USER');
 
---INSERT INTO message (body, created_at, issue_id, user_id) VALUES ('De nálam jó', CURRENT_TIMESTAMP(), 1, 1);
+--INSERT INTO message (body, created_at, issue_id, user_id) VALUES ('Már csak egy szabad hely', CURRENT_TIMESTAMP(), 1, 1);
 
 INSERT INTO label (text) VALUES ('közelgő');
 INSERT INTO label (text) VALUES ('betelt');
