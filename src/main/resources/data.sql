@@ -15,6 +15,6 @@ INSERT INTO label (text) VALUES ('úszás');
 INSERT INTO label (text) VALUES ('Spinning');
 INSERT INTO label (text) VALUES ('erőnléti');
 
-INSERT INTO issue_labels (trainings_id, labels_id) VALUES (1, 1);
-INSERT INTO issue_labels (trainings_id, labels_id) VALUES (2, 2);
-INSERT INTO issue_labels (trainings_id, labels_id) VALUES (3, 3);
+INSERT INTO training_labels (trainings_id, labels_id) VALUES (1, 1);
+INSERT INTO training_labels (trainings_id, labels_id) VALUES (2, 2);
+INSERT INTO training_labels (trainings_id, labels_id) VALUES (3, 3);
