@@ -1,10 +1,10 @@
-package hu.elte.TrainingScheduler;
+package hu.elte.trainingscheduler;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TrainingSchedulerApplicationTests {
+class TrainingschedulerApplicationTests {
 
 	@Test
 	void contextLoads() {
